@@ -1,5 +1,4 @@
 
-
 # Annoy: This should be a paper Title
 
 <p align="center">
@@ -45,7 +44,14 @@ Annoy-DataSync is a novel approach that transforms code-based reasoning patterns
 
 Due to our collaborators' compliance requirements, we only release the PythonEdu-Rs subset of the Annoy(++) dataset.
 
+### License
 
+The released datasets are made available under the **ODC-By-1.0** license.
+
+- `Annoy-PyEdu-Rs-Raw` is adopted from HuggingFaceTB's `python-edu` subset, which is released under `odc-by`.
+- `Annoy-PyEdu-Rs` is our processed derivative of that raw subset. The synthetic reasoning responses were generated with DeepSeek-V2.5; the dataset remains released under ODC-By-1.0 and should be used in accordance with all upstream terms.
+
+When using these datasets, please preserve attribution to the original source and to this project.
 
 #### Models
 <table>
